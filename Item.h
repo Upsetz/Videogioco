@@ -5,14 +5,18 @@
 #ifndef ITEM_H
 #define ITEM_H
 
+#include "Global.h"
 
-enum Rarity{COMMON=0, RARE, EPIC, LEGENDARY};
+enum Rarity {COMMON = 0, RARE, EPIC, LEGENDARY};
+
 class Item {
-
 public:
     Item(Rarity rarity);
+    ~Item();
+
 private:
     Rarity rarity;
+
 };
 
 

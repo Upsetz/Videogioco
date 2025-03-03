@@ -8,8 +8,10 @@
 
 
 class Character : public Entity  {
-
-
+public:
+    Character(float hp, float speed, float mp, float armor, float mr, float bd);
+    ~Character();
+private:
 
 };
 
