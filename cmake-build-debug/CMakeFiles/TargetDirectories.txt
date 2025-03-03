@@ -1,0 +1,3 @@
+/Users/samu/CLionProjects/videogioco/cmake-build-debug/CMakeFiles/videogioco.dir
+/Users/samu/CLionProjects/videogioco/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/samu/CLionProjects/videogioco/cmake-build-debug/CMakeFiles/rebuild_cache.dir
